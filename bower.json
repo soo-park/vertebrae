@@ -5,17 +5,20 @@
     "zzmp <zmp@umich.edu>"
   ],
   "description": "A (chiro)practical introduction to backbone.js",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "lib"
   ],
   "dependencies": {
     "backbone": "~1.1.2",
     "underscore": "~1.7.0",
     "jquery": "~2.1.1"
-  }
+  },
+  "homepage": "https://github.com/soo-park/hrsf78-vertebrae",
+  "main": "",
+  "license": "MIT"
 }

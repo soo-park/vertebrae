@@ -5,5 +5,19 @@
   "scripts": {
     "postinstall": "bower i"
   },
-  "author": "Zach Pomerantz <zmp@umich.edu> (http://garabagne.io/)"
+  "author": "Zach Pomerantz <zmp@umich.edu> (http://garabagne.io/)",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soo-park/hrsf78-vertebrae.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soo-park/hrsf78-vertebrae/issues"
+  },
+  "homepage": "https://github.com/soo-park/hrsf78-vertebrae#readme"
 }

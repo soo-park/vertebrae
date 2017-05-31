@@ -1,3 +1,7 @@
+bower.json
+package.json
+*node*
+
 ### node etc ###
 
 # Logs
